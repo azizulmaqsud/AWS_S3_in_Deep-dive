@@ -1,6 +1,6 @@
 # AWS S3 in Deep-dive
 
-![aws_s3](https://aws.amazon.com/s3/)
+![aws_devops-Fhr drawio](https://aws.amazon.com/s3/)
 
 ## Key features of S3 buckets
 - Durability and availability: S3 provides high durability and availability for your data.
